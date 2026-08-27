@@ -152,11 +152,11 @@ class Spider(Spider):
 
     def homeContent(self, filter):
         result = {}
-        result = {"class": [{"type_id": "1", "type_name": "七星剧场"},
-                            {"type_id": "3", "type_name": "七星新剧"},
-                            {"type_id": "2", "type_name": "七星热播"},
-                            {"type_id": "7", "type_name": "七星星选"},
-                            {"type_id": "5", "type_name": "七星阳光"}],
+        result = {"class": [{"type_id": "1", "type_name": "哈基咪剧场"},
+                            {"type_id": "3", "type_name": "哈基咪新剧"},
+                            {"type_id": "2", "type_name": "哈基咪热播"},
+                            {"type_id": "7", "type_name": "哈基咪星选"},
+                            {"type_id": "5", "type_name": "哈基咪阳光"}],
                   }
 
         return result
