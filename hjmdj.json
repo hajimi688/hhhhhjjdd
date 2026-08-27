@@ -1,10 +1,10 @@
-{
+  {
   "spider": "./大强.jar",
-  "logo": "",
+  "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
   "wallpaper": "http://tool.teyonds.com/api/",
   "warningText": "哈吉咪短剧自研软件:\n📢长期维护，永久免费 \n📢哈吉咪短剧",
   "sites": [
-    {
+{
       "name": "哈吉咪短剧",
       "key": "Hema",
       "type": 3,
@@ -15,7 +15,6 @@
       "genre": "shortdrama",
       "playerType": 1
     },
-
     {
       "name": "🎬豪堪短剧",
       "key": "HHkk",
@@ -90,7 +89,7 @@
   ],
   "lives": [
     {
-      "name": "哈基咪直播",
+      "name": "哈吉咪直播",
       "type": 0,
       "url": "./lib/哈吉咪轮播.json",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
