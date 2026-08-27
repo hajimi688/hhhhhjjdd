@@ -1,5 +1,5 @@
 {
-  "spider": "./spider/hjm.jar",
+  "spider": "./hjm.jar",
   "logo": "",
   "wallpaper": "http://tool.teyonds.com/api/",
   "warningText": "哈吉咪短剧自研软件:\n📢长期维护，永久免费 \n📢哈吉咪短剧",
@@ -8,6 +8,7 @@
       "name": "哈吉咪短剧",
       "key": "Hema",
       "type": 3,
+      "jar": "./lib/大强.jar",
       "api": "csp_HemaAmns",
       "searchable": 1,
       "quickSearch": 1,
