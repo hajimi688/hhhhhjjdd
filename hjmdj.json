@@ -103,15 +103,6 @@
       "api": "./lib/红豆短剧.py"
     },
     {
-      "key": "csp_T4_红果短剧_xxy",
-      "name": "🎬红果短剧",
-      "type": 4,
-      "api": "https://api.uumnet.com/tvbox/php/nxduanju_xxy.php?token=nxyyds",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-  {
       "key": "果果短剧",
       "name": "🎬果果短剧",
       "type": 3,
