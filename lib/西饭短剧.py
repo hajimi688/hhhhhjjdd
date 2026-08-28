@@ -139,7 +139,7 @@ class Spider(Spider):
 
                 type_id = str(oppoCategory) + '@' + str(categoryId)
 
-                result["class"].append({"type_id": type_id, "type_name": "TAO🌠" + oppoCategory})
+                result["class"].append({"type_id": type_id, "type_name": "哈基咪🌠" + oppoCategory})
 
         return result
 
@@ -164,7 +164,7 @@ class Spider(Spider):
 
                     pic = vod['duanjuVo']['coverImageUrl']
 
-                    remark = "TAO▶️推荐"
+                    remark = "哈基咪▶️推荐"
 
                     video = {
                         "vod_id": id + "#" + id1,
@@ -233,7 +233,7 @@ class Spider(Spider):
         if response.status_code == 200:
             response_data = response.json()
 
-            content = 'TAO为您介绍剧情📢' + response_data.get('result', {}).get('desc', '未知')
+            content = '哈基咪为您介绍剧情📢' + response_data.get('result', {}).get('desc', '未知')
 
             soup = response_data['result']['episodeList']
             for sou in soup:
@@ -291,7 +291,7 @@ class Spider(Spider):
 
                     pic = vod['duanjuVo']['coverImageUrl']
 
-                    remark = "TAO▶️推荐"
+                    remark = "哈基咪▶️推荐"
 
                     video = {
                         "vod_id": id + "#" + id1,
