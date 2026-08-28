@@ -97,9 +97,9 @@
       "filterable": 1
     },
    {
-      "key": "红豆短剧",
-      "name": "🎬红豆短剧",
-      "api": "./lib/红豆短剧.py",
+      "key": "黄豆短剧",
+      "name": "🎬黄豆短剧",
+      "api": "./lib/黄豆短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
