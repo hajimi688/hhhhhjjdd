@@ -5,15 +5,16 @@
   "warningText": "哈吉咪短剧自研软件:\n📢长期维护，永久免费 \n📢哈吉咪短剧",
   "sites": [
  {
-            "key": "Cat_百度短剧",
-            "name": "哈吉咪短剧",
-            "type": 3,
-            "api": "./lib/baidu_dj.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1
-        },
+      "key": "聚合短剧",
+      "name": "哈吉咪短剧",
+      "type": 3,
+      "api": "./lib/聚合短剧.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
 
+ {
       {
       "name": "🎬豪堪短剧",
       "key": "HHkk",
@@ -85,16 +86,7 @@
       "changeable": 0,
       "genre": "shortdrama"
     },
-   {
-      "key": "聚合短剧",
-      "name": "🎬聚合短剧",
-      "type": 3,
-      "api": "./lib/聚合短剧.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-   {
+     {
       "key": "西饭短剧",
       "name": "🎬西饭短剧",
       "api": "./lib/西饭短剧.py",
