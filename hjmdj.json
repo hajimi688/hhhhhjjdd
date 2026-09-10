@@ -4,9 +4,17 @@
   "wallpaper": "http://tool.teyonds.com/api/",
   "warningText": "哈吉咪短剧自研软件:\n📢长期维护，永久免费 \n📢哈吉咪短剧",
   "sites": [
+  {
+            "key": "白羊短剧",
+            "name": "哈吉咪短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/白羊短剧.json"
+        },
+
  {
       "key": "聚合短剧",
-      "name": "哈吉咪短剧",
+      "name": "🎬聚合短剧",
       "type": 3,
       "api": "./lib/聚合短剧.js",
       "searchable": 1,
