@@ -5,12 +5,15 @@
   "warningText": "哈吉咪短剧自研软件:\n📢长期维护，永久免费 \n📢哈吉咪短剧",
   "sites": [
   {
-            "key": "白羊短剧",
-            "name": "哈吉咪短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/白羊短剧.json"
-        },
+      "key": "西饭短剧",
+      "name": "哈吉咪短剧",
+      "api": "./lib/西饭短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+
  {
       "key": "聚合短剧",
       "name": "🎬聚合短剧",
@@ -92,16 +95,7 @@
       "changeable": 0,
       "genre": "shortdrama"
     },
-     {
-      "key": "西饭短剧",
-      "name": "🎬西饭短剧",
-      "api": "./lib/西饭短剧.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "type": 3
-    },
-       {
+         {
       "key": "果果短剧",
       "name": "🎬果果短剧",
       "type": 3,
